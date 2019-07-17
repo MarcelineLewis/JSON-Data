@@ -1,0 +1,16 @@
+[
+  {
+    "sensorType": "Temperature Sensor",
+    "sensorReading" : "140 degrees",
+    "sensorLocation" : "Engine 1",
+    "sensorIP": "192.168.23.34"
+
+    },
+  
+  {
+    "sensorType": "Temperature Sensor",
+    "sensorReading" : "160 degrees",
+    "sensorLocation" : "Engine 2",
+    "sensorIP": "192.168.143.45"
+    }
+]
