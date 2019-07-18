@@ -1,6 +1,6 @@
 [
   {
-    "sensorType": "Temperature Sensor",
+    "sensorType": "Engine 1 Temp Sensor",
     "sensorReading" : "140 degrees",
     "sensorLocation" : "Engine 1",
     "sensorIP": "192.168.23.34"
@@ -8,7 +8,7 @@
     },
   
   {
-    "sensorType": "Temperature Sensor",
+    "sensorType": "Engine 2 Temp Sensor",
     "sensorReading" : "160 degrees",
     "sensorLocation" : "Engine 2",
     "sensorIP": "192.168.143.45"
